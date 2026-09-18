@@ -15,7 +15,7 @@
     "vendor:document-parsers": "node scripts/vendor-document-parsers.mjs"
   },
   "dependencies": {
-    "jszip": "3.10.1",
+    "jszip": "3.10.2",
     "pdfjs-dist": "4.10.38"
   }
 }
